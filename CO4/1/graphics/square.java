@@ -1,6 +1,6 @@
 package graphics;
 
-public class square {
+public class square implements inter {
 	int a;
 	public square(int i){
 		a=i;
